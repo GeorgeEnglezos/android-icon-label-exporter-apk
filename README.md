@@ -1,6 +1,6 @@
 # Icon Helper APK
 
-A minimal Android application that extracts app icons and labels from an Android device, exported for use by the Scrcpy GUI desktop app.
+A minimal Android application that extracts app icons and labels from an Android device, exported for use by the [Scrcpy GUI desktop app](https://github.com/GeorgeEnglezos/Scrcpy-GUI).
 
 ## Features
 
