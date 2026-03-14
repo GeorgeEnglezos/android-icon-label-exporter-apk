@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Icon Helper</string>
+    <string name="export_title">App Icon Exporter</string>
+    <string name="ready_to_export">Ready to export app icons</string>
+    <string name="export_button">Export Icons</string>
+    <string name="exporting">Exporting icons…</string>
+    <string name="export_complete">Export complete: %1$d icons, %2$d labels</string>
+    <string name="export_failed">Export failed: %s</string>
+    <string name="exporting_progress">Exporting… %1$d / %2$d</string>
+    <string name="permission_required">Storage permission required to export icons</string>
+</resources>

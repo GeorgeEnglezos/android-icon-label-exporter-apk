@@ -1,0 +1,23 @@
+# Gradle
+.gradle/
+build/
+**/build/
+
+# Android Studio / IntelliJ
+.idea/
+*.iml
+*.iws
+*.ipr
+local.properties
+
+# Keystore files (never commit)
+*.jks
+*.keystore
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Output APKs
+*.apk
+*.aab
