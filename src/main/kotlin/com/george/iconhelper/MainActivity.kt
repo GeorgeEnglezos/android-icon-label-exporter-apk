@@ -114,6 +114,10 @@ class MainActivity : AppCompatActivity() {
         ))
 
         setContentView(rootLayout)
+
+        if (intent?.getBooleanExtra("auto_export", false) == true) {
+            requestPermissionsAndExport()
+        }
     }
 
     private fun Int.dpToPx(): Int = (this * resources.displayMetrics.density).toInt()
